@@ -1,2 +1,1 @@
-# Git
-Git practise
+Git练习中
